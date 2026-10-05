@@ -42,6 +42,11 @@ API 키 유출 제로: 사용자가 입력한 Google Gemini API 키는 어떠한
 
 로컬 스토리지 보관: 입력한 키는 사용자 본인의 스마트폰/PC 웹 브라우저 내장 저장소(localStorage)에만 안전하게 보관됩니다.
 
+<p align="center">
+  <img src="screenshot/API1.png" width="45%">
+    <img src="screenshot/API2.png" width="45%">
+</p>
+
 필요 시 언제든 설정 창에서 '저장된 키 삭제' 버튼을 눌러 기기에서 흔적 없이 지울 수 있습니다.
 
 # 🚀 사용 방법 (How to Use)
