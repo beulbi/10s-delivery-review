@@ -1,6 +1,9 @@
 # 🛵 10초 배달 리뷰 생성기 (AI Delivery Review Generator)
 
-<img src="screenshot/home.png"> <img src="screenshot/API.png">
+<p align="center">
+  <img src="screenshot/home.png" width="45%">
+  <img src="screenshot/API.png" width="45%">
+</p>
 
 ### 배달 음식 먹고 리뷰 쓰기 귀찮으셨나요? 별점과 키워드만 툭툭 고르면, Google Gemini AI가 10초 만에 자연스러운 구어체 리뷰를 뚝딱 만들어 줍니다!
 
