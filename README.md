@@ -70,4 +70,5 @@ Frontend: HTML5, Vanilla JavaScript, Tailwind CSS (CDN)
 AI API: Google Gemini 1.5 Flash API
 
 Deployment: GitHub Pages (무료 호스팅)
+
 </div>
